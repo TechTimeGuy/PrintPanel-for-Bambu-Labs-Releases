@@ -1,6 +1,6 @@
 # PrintPanel for Bambu Labs
 
-PrintPanel for Bambu Labs is a local-first Windows companion from TechTimeGuy Designs for monitoring Bambu Lab printers on the local network. Hardware-changing controls are available only for printer models and workflows that have completed explicit hardware validation.
+PrintPanel for Bambu Labs is a local-first Windows companion from TechTimeGuy Designs for simultaneously monitoring saved Bambu Lab printers on the local network. Hardware-changing controls target the explicitly selected printer and are available only for printer models and workflows that have completed explicit hardware validation.
 
 ## Downloads
 
